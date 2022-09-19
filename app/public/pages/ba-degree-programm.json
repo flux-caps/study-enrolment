@@ -1,0 +1,3350 @@
+{
+  "pageId": "ba-degree-programm",
+  "title": "ba-degree-programm",
+  "properties": {
+    "study_program_version": {
+      "enum": [
+        {
+          "uniqueId": 16371305,
+          "studyProgramUniqueId": 1056392,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 17895839,
+          "studyProgramUniqueId": 1056397,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056248,
+          "studyProgramUniqueId": 1056388,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 21676615,
+          "studyProgramUniqueId": 1056429,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 12246464,
+          "studyProgramUniqueId": 12246480,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 12207670,
+          "studyProgramUniqueId": 1056387,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056277,
+          "studyProgramUniqueId": 1056417,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056255,
+          "studyProgramUniqueId": 1056395,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056264,
+          "studyProgramUniqueId": 1056404,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 19529453,
+          "studyProgramUniqueId": 1056402,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 16069013,
+          "studyProgramUniqueId": 1056393,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056249,
+          "studyProgramUniqueId": 1056389,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 2027380,
+          "studyProgramUniqueId": 1056409,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 14626456,
+          "studyProgramUniqueId": 1056400,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 21676777,
+          "studyProgramUniqueId": 1056382,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 9086929,
+          "studyProgramUniqueId": 1056403,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 9116621,
+          "studyProgramUniqueId": 1056399,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 4446859,
+          "studyProgramUniqueId": 1056391,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 19970336,
+          "studyProgramUniqueId": 1056412,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 21312146,
+          "studyProgramUniqueId": 1056416,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 9641324,
+          "studyProgramUniqueId": 1056491,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 19295038,
+          "studyProgramUniqueId": 1056492,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056243,
+          "studyProgramUniqueId": 1056383,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 16327936,
+          "studyProgramUniqueId": 1056489,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056246,
+          "studyProgramUniqueId": 1056386,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 14507731,
+          "studyProgramUniqueId": 1056497,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 1056267,
+          "studyProgramUniqueId": 1056407,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 16068937,
+          "studyProgramUniqueId": 1056384,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 9640827,
+          "studyProgramUniqueId": 1056433,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 16069061,
+          "studyProgramUniqueId": 1056440,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 16069210,
+          "studyProgramUniqueId": 16069202,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 14666299,
+          "studyProgramUniqueId": 1056390,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 15803478,
+          "studyProgramUniqueId": 1056424,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 11592087,
+          "studyProgramUniqueId": 1056509,
+          "ects": 180,
+          "consecutive": 0
+        },
+        {
+          "uniqueId": 13768709,
+          "studyProgramUniqueId": 1056505,
+          "ects": 180,
+          "consecutive": 0
+        }
+      ]
+    },
+    "study_program_structure": {
+      "enum": [
+        {
+          "uniqueId": 1056223,
+          "studyProgramVersionUniqueId": 1056368,
+          "ects": 0
+        },
+        {
+          "uniqueId": 16371301,
+          "studyProgramVersionUniqueId": 16371305,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16371295,
+          "studyProgramVersionUniqueId": 16371305,
+          "ects": 180
+        },
+        {
+          "uniqueId": 17895822,
+          "studyProgramVersionUniqueId": 17895839,
+          "ects": 180
+        },
+        {
+          "uniqueId": 17895816,
+          "studyProgramVersionUniqueId": 17895839,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9641322,
+          "studyProgramVersionUniqueId": 9641324,
+          "ects": 180
+        },
+        {
+          "uniqueId": 19295036,
+          "studyProgramVersionUniqueId": 19295038,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056044,
+          "studyProgramVersionUniqueId": 1056243,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056088,
+          "studyProgramVersionUniqueId": 1056243,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056120,
+          "studyProgramVersionUniqueId": 1056243,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056105,
+          "studyProgramVersionUniqueId": 1056243,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16327934,
+          "studyProgramVersionUniqueId": 16327936,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056060,
+          "studyProgramVersionUniqueId": 1056248,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056050,
+          "studyProgramVersionUniqueId": 1056248,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055964,
+          "studyProgramVersionUniqueId": 1056244,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16068930,
+          "studyProgramVersionUniqueId": 16068937,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16068933,
+          "studyProgramVersionUniqueId": 16068937,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056043,
+          "studyProgramVersionUniqueId": 1056244,
+          "ects": 180
+        },
+        {
+          "uniqueId": 12246460,
+          "studyProgramVersionUniqueId": 12246464,
+          "ects": 180
+        },
+        {
+          "uniqueId": 12246457,
+          "studyProgramVersionUniqueId": 12246464,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14507729,
+          "studyProgramVersionUniqueId": 14507731,
+          "ects": 180
+        },
+        {
+          "uniqueId": 12207666,
+          "studyProgramVersionUniqueId": 12207670,
+          "ects": 180
+        },
+        {
+          "uniqueId": 12207663,
+          "studyProgramVersionUniqueId": 12207670,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056124,
+          "studyProgramVersionUniqueId": 1056293,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9640823,
+          "studyProgramVersionUniqueId": 9640827,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9640817,
+          "studyProgramVersionUniqueId": 9640827,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056079,
+          "studyProgramVersionUniqueId": 1056293,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056141,
+          "studyProgramVersionUniqueId": 1056293,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9640820,
+          "studyProgramVersionUniqueId": 9640827,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056052,
+          "studyProgramVersionUniqueId": 1056277,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056047,
+          "studyProgramVersionUniqueId": 1056277,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056034,
+          "studyProgramVersionUniqueId": 1056255,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055995,
+          "studyProgramVersionUniqueId": 1056255,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056182,
+          "studyProgramVersionUniqueId": 1056255,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056145,
+          "studyProgramVersionUniqueId": 1056313,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1277483,
+          "studyProgramVersionUniqueId": 1277482,
+          "ects": 60
+        },
+        {
+          "uniqueId": 1056031,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056001,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056118,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055981,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055968,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056189,
+          "studyProgramVersionUniqueId": 1056246,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056080,
+          "studyProgramVersionUniqueId": 1056260,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14626442,
+          "studyProgramVersionUniqueId": 14626456,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14626446,
+          "studyProgramVersionUniqueId": 14626456,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056067,
+          "studyProgramVersionUniqueId": 1056260,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056038,
+          "studyProgramVersionUniqueId": 1056260,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14626450,
+          "studyProgramVersionUniqueId": 14626456,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14626453,
+          "studyProgramVersionUniqueId": 14626456,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056023,
+          "studyProgramVersionUniqueId": 1056260,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056000,
+          "studyProgramVersionUniqueId": 1056264,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056096,
+          "studyProgramVersionUniqueId": 1056264,
+          "ects": 180
+        },
+        {
+          "uniqueId": 19529449,
+          "studyProgramVersionUniqueId": 19529453,
+          "ects": 180
+        },
+        {
+          "uniqueId": 19529443,
+          "studyProgramVersionUniqueId": 19529453,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16069009,
+          "studyProgramVersionUniqueId": 16069013,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16068999,
+          "studyProgramVersionUniqueId": 16069013,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16069057,
+          "studyProgramVersionUniqueId": 16069061,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16069051,
+          "studyProgramVersionUniqueId": 16069061,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16069054,
+          "studyProgramVersionUniqueId": 16069061,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055984,
+          "studyProgramVersionUniqueId": 1056249,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1055992,
+          "studyProgramVersionUniqueId": 1056249,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21676600,
+          "studyProgramVersionUniqueId": 21676615,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21676605,
+          "studyProgramVersionUniqueId": 21676615,
+          "ects": 180
+        },
+        {
+          "uniqueId": 2027376,
+          "studyProgramVersionUniqueId": 2027380,
+          "ects": 180
+        },
+        {
+          "uniqueId": 2027366,
+          "studyProgramVersionUniqueId": 2027380,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14666290,
+          "studyProgramVersionUniqueId": 14666299,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14666293,
+          "studyProgramVersionUniqueId": 14666299,
+          "ects": 180
+        },
+        {
+          "uniqueId": 14666295,
+          "studyProgramVersionUniqueId": 14666299,
+          "ects": 180
+        },
+        {
+          "uniqueId": 15803471,
+          "studyProgramVersionUniqueId": 15803478,
+          "ects": 180
+        },
+        {
+          "uniqueId": 6409268,
+          "studyProgramVersionUniqueId": 6409274,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056114,
+          "studyProgramVersionUniqueId": 1056284,
+          "ects": 180
+        },
+        {
+          "uniqueId": 15803474,
+          "studyProgramVersionUniqueId": 15803478,
+          "ects": 180
+        },
+        {
+          "uniqueId": 11592085,
+          "studyProgramVersionUniqueId": 11592087,
+          "ects": 180
+        },
+        {
+          "uniqueId": 16069223,
+          "studyProgramVersionUniqueId": 16069210,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21676762,
+          "studyProgramVersionUniqueId": 21676777,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21676771,
+          "studyProgramVersionUniqueId": 21676777,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9086925,
+          "studyProgramVersionUniqueId": 9086929,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9086918,
+          "studyProgramVersionUniqueId": 9086929,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9116607,
+          "studyProgramVersionUniqueId": 9116621,
+          "ects": 180
+        },
+        {
+          "uniqueId": 9116611,
+          "studyProgramVersionUniqueId": 9116621,
+          "ects": 180
+        },
+        {
+          "uniqueId": 4446851,
+          "studyProgramVersionUniqueId": 4446859,
+          "ects": 180
+        },
+        {
+          "uniqueId": 4446848,
+          "studyProgramVersionUniqueId": 4446859,
+          "ects": 180
+        },
+        {
+          "uniqueId": 4446842,
+          "studyProgramVersionUniqueId": 4446859,
+          "ects": 180
+        },
+        {
+          "uniqueId": 4446845,
+          "studyProgramVersionUniqueId": 4446859,
+          "ects": 180
+        },
+        {
+          "uniqueId": 4446855,
+          "studyProgramVersionUniqueId": 4446859,
+          "ects": 180
+        },
+        {
+          "uniqueId": 19970332,
+          "studyProgramVersionUniqueId": 19970336,
+          "ects": 180
+        },
+        {
+          "uniqueId": 19970329,
+          "studyProgramVersionUniqueId": 19970336,
+          "ects": 180
+        },
+        {
+          "uniqueId": 15804352,
+          "studyProgramVersionUniqueId": 15804359,
+          "ects": 180
+        },
+        {
+          "uniqueId": 3196575,
+          "studyProgramVersionUniqueId": 3196581,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056029,
+          "studyProgramVersionUniqueId": 1056279,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056111,
+          "studyProgramVersionUniqueId": 1056279,
+          "ects": 180
+        },
+        {
+          "uniqueId": 15804355,
+          "studyProgramVersionUniqueId": 15804359,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21312142,
+          "studyProgramVersionUniqueId": 21312146,
+          "ects": 180
+        },
+        {
+          "uniqueId": 21312139,
+          "studyProgramVersionUniqueId": 21312146,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056021,
+          "studyProgramVersionUniqueId": 1056276,
+          "ects": 180
+        },
+        {
+          "uniqueId": 13768707,
+          "studyProgramVersionUniqueId": 13768709,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1299903,
+          "studyProgramVersionUniqueId": 1299905,
+          "ects": 180
+        },
+        {
+          "uniqueId": 11488213,
+          "studyProgramVersionUniqueId": 11488215,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19664274,
+          "studyProgramVersionUniqueId": 19664276,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056082,
+          "studyProgramVersionUniqueId": 1056267,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056010,
+          "studyProgramVersionUniqueId": 1056267,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056085,
+          "studyProgramVersionUniqueId": 1056267,
+          "ects": 180
+        },
+        {
+          "uniqueId": 2202448,
+          "studyProgramVersionUniqueId": 1056267,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056132,
+          "studyProgramVersionUniqueId": 1056267,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056146,
+          "studyProgramVersionUniqueId": 1056314,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1277477,
+          "studyProgramVersionUniqueId": 1277476,
+          "ects": 60
+        },
+        {
+          "uniqueId": 1441097,
+          "studyProgramVersionUniqueId": 1441099,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237439,
+          "studyProgramVersionUniqueId": 1067617,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237423,
+          "studyProgramVersionUniqueId": 1067622,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1603421,
+          "studyProgramVersionUniqueId": 1603420,
+          "ects": 0
+        },
+        {
+          "uniqueId": 14802309,
+          "studyProgramVersionUniqueId": 14802280,
+          "ects": 0
+        },
+        {
+          "uniqueId": 21157362,
+          "studyProgramVersionUniqueId": 21157357,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17084039,
+          "studyProgramVersionUniqueId": 17084041,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237165,
+          "studyProgramVersionUniqueId": 1067641,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237428,
+          "studyProgramVersionUniqueId": 1067639,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237417,
+          "studyProgramVersionUniqueId": 1067613,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237420,
+          "studyProgramVersionUniqueId": 1067619,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1237431,
+          "studyProgramVersionUniqueId": 1067620,
+          "ects": 0
+        },
+        {
+          "uniqueId": 2027270,
+          "studyProgramVersionUniqueId": 2027269,
+          "ects": 120
+        },
+        {
+          "uniqueId": 2027147,
+          "studyProgramVersionUniqueId": 2027139,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056218,
+          "studyProgramVersionUniqueId": 1056299,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056095,
+          "studyProgramVersionUniqueId": 1056299,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16781664,
+          "studyProgramVersionUniqueId": 16781666,
+          "ects": 90
+        },
+        {
+          "uniqueId": 16993576,
+          "studyProgramVersionUniqueId": 16371499,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16371491,
+          "studyProgramVersionUniqueId": 16371499,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16371494,
+          "studyProgramVersionUniqueId": 16371499,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17897199,
+          "studyProgramVersionUniqueId": 0,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17897196,
+          "studyProgramVersionUniqueId": 17897202,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17897209,
+          "studyProgramVersionUniqueId": 17897202,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17897234,
+          "studyProgramVersionUniqueId": 17897202,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17897241,
+          "studyProgramVersionUniqueId": 17897202,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19443624,
+          "studyProgramVersionUniqueId": 19443509,
+          "ects": 120
+        },
+        {
+          "uniqueId": 6643370,
+          "studyProgramVersionUniqueId": 6643366,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056151,
+          "studyProgramVersionUniqueId": 1056319,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056235,
+          "studyProgramVersionUniqueId": 1056377,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056233,
+          "studyProgramVersionUniqueId": 1056375,
+          "ects": 90
+        },
+        {
+          "uniqueId": 21689292,
+          "studyProgramVersionUniqueId": 21689295,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16327973,
+          "studyProgramVersionUniqueId": 16327975,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056035,
+          "studyProgramVersionUniqueId": 1056281,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16124414,
+          "studyProgramVersionUniqueId": 16124413,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056234,
+          "studyProgramVersionUniqueId": 1056376,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056074,
+          "studyProgramVersionUniqueId": 1056292,
+          "ects": 120
+        },
+        {
+          "uniqueId": 4849428,
+          "studyProgramVersionUniqueId": 4849430,
+          "ects": 120
+        },
+        {
+          "uniqueId": 21676718,
+          "studyProgramVersionUniqueId": 21676721,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299702,
+          "studyProgramVersionUniqueId": 1299704,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1299707,
+          "studyProgramVersionUniqueId": 1299709,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1299712,
+          "studyProgramVersionUniqueId": 1299714,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1299717,
+          "studyProgramVersionUniqueId": 1299719,
+          "ects": 90
+        },
+        {
+          "uniqueId": 18397492,
+          "studyProgramVersionUniqueId": 18397496,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16068967,
+          "studyProgramVersionUniqueId": 16068972,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056217,
+          "studyProgramVersionUniqueId": 1056302,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056104,
+          "studyProgramVersionUniqueId": 1056302,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16068969,
+          "studyProgramVersionUniqueId": 16068972,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299668,
+          "studyProgramVersionUniqueId": 1299671,
+          "ects": 120
+        },
+        {
+          "uniqueId": 12246841,
+          "studyProgramVersionUniqueId": 12246844,
+          "ects": 120
+        },
+        {
+          "uniqueId": 12246836,
+          "studyProgramVersionUniqueId": 12246839,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16414432,
+          "studyProgramVersionUniqueId": 16414435,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299856,
+          "studyProgramVersionUniqueId": 1299859,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299864,
+          "studyProgramVersionUniqueId": 1299867,
+          "ects": 120
+        },
+        {
+          "uniqueId": 9676753,
+          "studyProgramVersionUniqueId": 9676702,
+          "ects": 120
+        },
+        {
+          "uniqueId": 9676700,
+          "studyProgramVersionUniqueId": 9676702,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056206,
+          "studyProgramVersionUniqueId": 1056355,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056009,
+          "studyProgramVersionUniqueId": 1056270,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056011,
+          "studyProgramVersionUniqueId": 1056271,
+          "ects": 120
+        },
+        {
+          "uniqueId": 4532736,
+          "studyProgramVersionUniqueId": 4532738,
+          "ects": 120
+        },
+        {
+          "uniqueId": 4532733,
+          "studyProgramVersionUniqueId": 4532738,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056144,
+          "studyProgramVersionUniqueId": 1056312,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056198,
+          "studyProgramVersionUniqueId": 1056347,
+          "ects": 90
+        },
+        {
+          "uniqueId": 14626750,
+          "studyProgramVersionUniqueId": 14626753,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1055986,
+          "studyProgramVersionUniqueId": 1056261,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299757,
+          "studyProgramVersionUniqueId": 1299760,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19663680,
+          "studyProgramVersionUniqueId": 19663683,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19663672,
+          "studyProgramVersionUniqueId": 19663675,
+          "ects": 120
+        },
+        {
+          "uniqueId": 6806370,
+          "studyProgramVersionUniqueId": 6806367,
+          "ects": 120
+        },
+        {
+          "uniqueId": 6806365,
+          "studyProgramVersionUniqueId": 6806367,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056091,
+          "studyProgramVersionUniqueId": 1056297,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16069135,
+          "studyProgramVersionUniqueId": 16069137,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056054,
+          "studyProgramVersionUniqueId": 1056286,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056205,
+          "studyProgramVersionUniqueId": 1056354,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056013,
+          "studyProgramVersionUniqueId": 1056273,
+          "ects": 120
+        },
+        {
+          "uniqueId": 17531691,
+          "studyProgramVersionUniqueId": 17531690,
+          "ects": 120
+        },
+        {
+          "uniqueId": 5452496,
+          "studyProgramVersionUniqueId": 5452499,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056142,
+          "studyProgramVersionUniqueId": 1056310,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1055965,
+          "studyProgramVersionUniqueId": 1056245,
+          "ects": 120
+        },
+        {
+          "uniqueId": 21668595,
+          "studyProgramVersionUniqueId": 21668597,
+          "ects": 120
+        },
+        {
+          "uniqueId": 7593882,
+          "studyProgramVersionUniqueId": 7593884,
+          "ects": 90
+        },
+        {
+          "uniqueId": 6993511,
+          "studyProgramVersionUniqueId": 6993513,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056158,
+          "studyProgramVersionUniqueId": 1056325,
+          "ects": 90
+        },
+        {
+          "uniqueId": 21083852,
+          "studyProgramVersionUniqueId": 21083850,
+          "ects": 120
+        },
+        {
+          "uniqueId": 14666588,
+          "studyProgramVersionUniqueId": 14666590,
+          "ects": 90
+        },
+        {
+          "uniqueId": 21129482,
+          "studyProgramVersionUniqueId": 21129454,
+          "ects": 120
+        },
+        {
+          "uniqueId": 21689221,
+          "studyProgramVersionUniqueId": 21689224,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056039,
+          "studyProgramVersionUniqueId": 1056282,
+          "ects": 120
+        },
+        {
+          "uniqueId": 9086967,
+          "studyProgramVersionUniqueId": 9086970,
+          "ects": 120
+        },
+        {
+          "uniqueId": 9116919,
+          "studyProgramVersionUniqueId": 9116933,
+          "ects": 120
+        },
+        {
+          "uniqueId": 9116916,
+          "studyProgramVersionUniqueId": 9116933,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19970361,
+          "studyProgramVersionUniqueId": 19970363,
+          "ects": 120
+        },
+        {
+          "uniqueId": 19970358,
+          "studyProgramVersionUniqueId": 19970363,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056232,
+          "studyProgramVersionUniqueId": 1056374,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1056106,
+          "studyProgramVersionUniqueId": 1056303,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16412027,
+          "studyProgramVersionUniqueId": 16412030,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16412032,
+          "studyProgramVersionUniqueId": 16412034,
+          "ects": 120
+        },
+        {
+          "uniqueId": 16069191,
+          "studyProgramVersionUniqueId": 16069193,
+          "ects": 90
+        },
+        {
+          "uniqueId": 17531814,
+          "studyProgramVersionUniqueId": 17531812,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056002,
+          "studyProgramVersionUniqueId": 1056266,
+          "ects": 120
+        },
+        {
+          "uniqueId": 14754596,
+          "studyProgramVersionUniqueId": 14754598,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299896,
+          "studyProgramVersionUniqueId": 1299898,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1299889,
+          "studyProgramVersionUniqueId": 1299891,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056227,
+          "studyProgramVersionUniqueId": 1056372,
+          "ects": 90
+        },
+        {
+          "uniqueId": 12952926,
+          "studyProgramVersionUniqueId": 12952915,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056236,
+          "studyProgramVersionUniqueId": 1056283,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056041,
+          "studyProgramVersionUniqueId": 1056283,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1056147,
+          "studyProgramVersionUniqueId": 1056315,
+          "ects": 120
+        },
+        {
+          "uniqueId": 1237161,
+          "studyProgramVersionUniqueId": 1237160,
+          "ects": 90
+        },
+        {
+          "uniqueId": 1299521,
+          "studyProgramVersionUniqueId": 1067686,
+          "ects": 30
+        },
+        {
+          "uniqueId": 1299519,
+          "studyProgramVersionUniqueId": 1067689,
+          "ects": 15
+        },
+        {
+          "uniqueId": 1299517,
+          "studyProgramVersionUniqueId": 1067687,
+          "ects": 15
+        },
+        {
+          "uniqueId": 1299515,
+          "studyProgramVersionUniqueId": 1067688,
+          "ects": 15
+        },
+        {
+          "uniqueId": 1299513,
+          "studyProgramVersionUniqueId": 1067634,
+          "ects": 15
+        },
+        {
+          "uniqueId": 1299507,
+          "studyProgramVersionUniqueId": 1067690,
+          "ects": 15
+        },
+        {
+          "uniqueId": 17608201,
+          "studyProgramVersionUniqueId": 17608198,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1056209,
+          "studyProgramVersionUniqueId": 1056358,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608902,
+          "studyProgramVersionUniqueId": 17608899,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608341,
+          "studyProgramVersionUniqueId": 17608339,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608273,
+          "studyProgramVersionUniqueId": 17608271,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1056156,
+          "studyProgramVersionUniqueId": 1056324,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056159,
+          "studyProgramVersionUniqueId": 1056326,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056162,
+          "studyProgramVersionUniqueId": 1056329,
+          "ects": 180
+        },
+        {
+          "uniqueId": 17608878,
+          "studyProgramVersionUniqueId": 17608877,
+          "ects": 0
+        },
+        {
+          "uniqueId": 1056150,
+          "studyProgramVersionUniqueId": 1056318,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056149,
+          "studyProgramVersionUniqueId": 1056317,
+          "ects": 180
+        },
+        {
+          "uniqueId": 1056238,
+          "studyProgramVersionUniqueId": 1056378,
+          "ects": 180
+        },
+        {
+          "uniqueId": 17608916,
+          "studyProgramVersionUniqueId": 17608915,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608954,
+          "studyProgramVersionUniqueId": 17608941,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17942765,
+          "studyProgramVersionUniqueId": 17942767,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608971,
+          "studyProgramVersionUniqueId": 17608970,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17608987,
+          "studyProgramVersionUniqueId": 17608986,
+          "ects": 0
+        },
+        {
+          "uniqueId": 17609035,
+          "studyProgramVersionUniqueId": 17609030,
+          "ects": 0
+        }
+      ]
+    },
+    "mandatory_study_program": {
+      "enum": [
+        {
+          "uniqueId": 21676772,
+          "studyProgramStructureUniqueId": 21676771,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 21676796,
+              "ects": 120,
+              "subjectUniqueId": 745657,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21676763,
+          "studyProgramStructureUniqueId": 21676762,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 21676796,
+              "ects": 120,
+              "subjectUniqueId": 745657,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066689,
+          "studyProgramStructureUniqueId": 1056044,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055915,
+              "ects": 120,
+              "subjectUniqueId": 49660,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066690,
+          "studyProgramStructureUniqueId": 1056088,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055915,
+              "ects": 120,
+              "subjectUniqueId": 49660,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066750,
+          "studyProgramStructureUniqueId": 1056120,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055915,
+              "ects": 120,
+              "subjectUniqueId": 49660,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066758,
+          "studyProgramStructureUniqueId": 1056105,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055919,
+              "ects": 150,
+              "subjectUniqueId": 49660,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1064502,
+          "studyProgramStructureUniqueId": 1056043,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1064512,
+          "studyProgramStructureUniqueId": 1055964,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 16068931,
+          "studyProgramStructureUniqueId": 16068930,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 16068940,
+              "ects": 120,
+              "subjectUniqueId": 745676,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16068934,
+          "studyProgramStructureUniqueId": 16068933,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": false,
+          "studyPrograms": [
+            {
+              "uniqueId": 16068940,
+              "ects": 120,
+              "subjectUniqueId": 745676,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1061147,
+          "studyProgramStructureUniqueId": 1056001,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1062115,
+          "studyProgramStructureUniqueId": 1055981,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069097,
+              "ects": 60,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1062116,
+          "studyProgramStructureUniqueId": 1056031,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1062121,
+          "studyProgramStructureUniqueId": 1056118,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1062125,
+          "studyProgramStructureUniqueId": 1055968,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069097,
+              "ects": 60,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1060680,
+          "studyProgramStructureUniqueId": 1055984,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055719,
+              "ects": 120,
+              "subjectUniqueId": 745603,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1060692,
+          "studyProgramStructureUniqueId": 1055992,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055719,
+              "ects": 120,
+              "subjectUniqueId": 745603,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1062127,
+          "studyProgramStructureUniqueId": 1056189,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055741,
+              "ects": 90,
+              "subjectUniqueId": 50276,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 16069086,
+              "ects": 90,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1603406,
+          "studyProgramStructureUniqueId": 1603405,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 4446843,
+          "studyProgramStructureUniqueId": 4446842,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4446877,
+              "ects": 120,
+              "subjectUniqueId": 50306,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 4446846,
+          "studyProgramStructureUniqueId": 4446845,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4446884,
+              "ects": 150,
+              "subjectUniqueId": 50306,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 4446849,
+          "studyProgramStructureUniqueId": 4446848,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4446877,
+              "ects": 120,
+              "subjectUniqueId": 50306,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 4446852,
+          "studyProgramStructureUniqueId": 4446851,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4446877,
+              "ects": 120,
+              "subjectUniqueId": 50306,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 4446856,
+          "studyProgramStructureUniqueId": 4446855,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4446884,
+              "ects": 150,
+              "subjectUniqueId": 50306,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 12207664,
+          "studyProgramStructureUniqueId": 12207663,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 12207684,
+              "ects": 120,
+              "subjectUniqueId": 745644,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 12207667,
+          "studyProgramStructureUniqueId": 12207666,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 12207684,
+              "ects": 120,
+              "subjectUniqueId": 745644,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14666291,
+          "studyProgramStructureUniqueId": 14666290,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 14666307,
+              "ects": 120,
+              "subjectUniqueId": 49661,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14666294,
+          "studyProgramStructureUniqueId": 14666293,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069097,
+              "ects": 60,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 14666307,
+              "ects": 120,
+              "subjectUniqueId": 49661,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14666296,
+          "studyProgramStructureUniqueId": 14666295,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069113,
+              "ects": 30,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 14666307,
+              "ects": 120,
+              "subjectUniqueId": 49661,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16371296,
+          "studyProgramStructureUniqueId": 16371295,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16371349,
+              "ects": 120,
+              "subjectUniqueId": 745600,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16371299,
+          "studyProgramStructureUniqueId": 16371298,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16371349,
+              "ects": 120,
+              "subjectUniqueId": 745600,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1059534,
+          "studyProgramStructureUniqueId": 1056016,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1059548,
+          "studyProgramStructureUniqueId": 1056036,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1059552,
+          "studyProgramStructureUniqueId": 1056075,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1060109,
+          "studyProgramStructureUniqueId": 1056096,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055701,
+              "ects": 120,
+              "subjectUniqueId": 745656,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1060110,
+          "studyProgramStructureUniqueId": 1056000,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055701,
+              "ects": 120,
+              "subjectUniqueId": 745656,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1061416,
+          "studyProgramStructureUniqueId": 1055995,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055747,
+              "ects": 120,
+              "subjectUniqueId": 198906,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1061418,
+          "studyProgramStructureUniqueId": 1056182,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055749,
+              "ects": 180,
+              "subjectUniqueId": 198906,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1061427,
+          "studyProgramStructureUniqueId": 1056034,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055747,
+              "ects": 120,
+              "subjectUniqueId": 198906,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1065432,
+          "studyProgramStructureUniqueId": 1056080,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1065450,
+          "studyProgramStructureUniqueId": 1056067,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1065471,
+          "studyProgramStructureUniqueId": 1056038,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1065504,
+          "studyProgramStructureUniqueId": 1056023,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1066388,
+          "studyProgramStructureUniqueId": 1056085,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055907,
+              "ects": 120,
+              "subjectUniqueId": 50015,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066470,
+          "studyProgramStructureUniqueId": 1056132,
+          "ects": 150,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055911,
+              "ects": 150,
+              "subjectUniqueId": 50015,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066499,
+          "studyProgramStructureUniqueId": 1056010,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055907,
+              "ects": 120,
+              "subjectUniqueId": 50015,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1066518,
+          "studyProgramStructureUniqueId": 1056082,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055907,
+              "ects": 120,
+              "subjectUniqueId": 50015,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 2027367,
+          "studyProgramStructureUniqueId": 2027366,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4849458,
+              "ects": 120,
+              "subjectUniqueId": 745658,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 2027377,
+          "studyProgramStructureUniqueId": 2027376,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 4849458,
+              "ects": 120,
+              "subjectUniqueId": 745658,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 2202450,
+          "studyProgramStructureUniqueId": 2202448,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055832,
+              "ects": 60,
+              "subjectUniqueId": 745674,
+              "studyProgramType": 49432,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            },
+            {
+              "uniqueId": 2202473,
+              "ects": 120,
+              "subjectUniqueId": 2202467,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9086919,
+          "studyProgramStructureUniqueId": 9086918,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9086931,
+              "ects": 120,
+              "subjectUniqueId": 745601,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9086926,
+          "studyProgramStructureUniqueId": 9086925,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9086931,
+              "ects": 120,
+              "subjectUniqueId": 745601,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9116608,
+          "studyProgramStructureUniqueId": 9116607,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9116714,
+              "ects": 120,
+              "subjectUniqueId": 745659,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9116612,
+          "studyProgramStructureUniqueId": 9116611,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9116714,
+              "ects": 120,
+              "subjectUniqueId": 745659,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14626443,
+          "studyProgramStructureUniqueId": 14626442,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 14626490,
+              "ects": 120,
+              "subjectUniqueId": 745681,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14626447,
+          "studyProgramStructureUniqueId": 14626446,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 14626490,
+              "ects": 120,
+              "subjectUniqueId": 745681,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14626451,
+          "studyProgramStructureUniqueId": 14626450,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 14626490,
+              "ects": 120,
+              "subjectUniqueId": 745681,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14626454,
+          "studyProgramStructureUniqueId": 14626453,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 14626490,
+              "ects": 120,
+              "subjectUniqueId": 745681,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16069000,
+          "studyProgramStructureUniqueId": 16068999,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069014,
+              "ects": 120,
+              "subjectUniqueId": 745602,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16069010,
+          "studyProgramStructureUniqueId": 16069009,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069014,
+              "ects": 120,
+              "subjectUniqueId": 745602,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16371292,
+          "studyProgramStructureUniqueId": 16371291,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16371349,
+              "ects": 120,
+              "subjectUniqueId": 745600,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16371302,
+          "studyProgramStructureUniqueId": 16371301,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16371349,
+              "ects": 120,
+              "subjectUniqueId": 745600,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 17895817,
+          "studyProgramStructureUniqueId": 17895816,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 17895842,
+              "ects": 120,
+              "subjectUniqueId": 745604,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 17895823,
+          "studyProgramStructureUniqueId": 17895822,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 17895842,
+              "ects": 120,
+              "subjectUniqueId": 745604,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19529440,
+          "studyProgramStructureUniqueId": 19529439,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19529487,
+              "ects": 120,
+              "subjectUniqueId": 745653,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19529444,
+          "studyProgramStructureUniqueId": 19529443,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19529487,
+              "ects": 120,
+              "subjectUniqueId": 745653,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19529447,
+          "studyProgramStructureUniqueId": 19529446,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19529487,
+              "ects": 120,
+              "subjectUniqueId": 745653,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19529450,
+          "studyProgramStructureUniqueId": 19529449,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19529487,
+              "ects": 120,
+              "subjectUniqueId": 745653,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19970323,
+          "studyProgramStructureUniqueId": 19970322,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19970337,
+              "ects": 120,
+              "subjectUniqueId": 745654,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19970326,
+          "studyProgramStructureUniqueId": 19970325,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19970337,
+              "ects": 120,
+              "subjectUniqueId": 745654,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19970330,
+          "studyProgramStructureUniqueId": 19970329,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19970337,
+              "ects": 120,
+              "subjectUniqueId": 745654,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19970333,
+          "studyProgramStructureUniqueId": 19970332,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19970337,
+              "ects": 120,
+              "subjectUniqueId": 745654,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21312133,
+          "studyProgramStructureUniqueId": 21312132,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21312164,
+              "ects": 120,
+              "subjectUniqueId": 745650,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21312137,
+          "studyProgramStructureUniqueId": 21312136,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21312164,
+              "ects": 120,
+              "subjectUniqueId": 745650,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21312140,
+          "studyProgramStructureUniqueId": 21312139,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21312164,
+              "ects": 120,
+              "subjectUniqueId": 745650,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21312143,
+          "studyProgramStructureUniqueId": 21312142,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21312164,
+              "ects": 120,
+              "subjectUniqueId": 745650,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1058721,
+          "studyProgramStructureUniqueId": 1056145,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055611,
+              "ects": 120,
+              "subjectUniqueId": 50041,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1058722,
+          "studyProgramStructureUniqueId": 1056146,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055612,
+              "ects": 120,
+              "subjectUniqueId": 50286,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1059195,
+          "studyProgramStructureUniqueId": 1056078,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055663,
+              "ects": 120,
+              "subjectUniqueId": 50134,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1059199,
+          "studyProgramStructureUniqueId": 1056022,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055663,
+              "ects": 120,
+              "subjectUniqueId": 50134,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1059215,
+          "studyProgramStructureUniqueId": 1056052,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1055663,
+              "ects": 120,
+              "subjectUniqueId": 50134,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1063609,
+          "studyProgramStructureUniqueId": 1056141,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1063622,
+          "studyProgramStructureUniqueId": 1056124,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1063624,
+          "studyProgramStructureUniqueId": 1056079,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1064233,
+          "studyProgramStructureUniqueId": 1056114,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1064527,
+          "studyProgramStructureUniqueId": 1056111,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1064532,
+          "studyProgramStructureUniqueId": 1056029,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 1277478,
+          "studyProgramStructureUniqueId": 1277477,
+          "ects": 60,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1277475,
+              "ects": 60,
+              "subjectUniqueId": 50286,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 1277484,
+          "studyProgramStructureUniqueId": 1277483,
+          "ects": 60,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 1277485,
+              "ects": 60,
+              "subjectUniqueId": 50041,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 3196576,
+          "studyProgramStructureUniqueId": 3196575,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 6409269,
+          "studyProgramStructureUniqueId": 6409268,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 6409272,
+          "studyProgramStructureUniqueId": 6409271,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 9640818,
+          "studyProgramStructureUniqueId": 9640817,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9640891,
+              "ects": 120,
+              "subjectUniqueId": 50274,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9640821,
+          "studyProgramStructureUniqueId": 9640820,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9640891,
+              "ects": 120,
+              "subjectUniqueId": 50274,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9640824,
+          "studyProgramStructureUniqueId": 9640823,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9640891,
+              "ects": 120,
+              "subjectUniqueId": 50274,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 9641323,
+          "studyProgramStructureUniqueId": 9641322,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 9641325,
+              "ects": 180,
+              "subjectUniqueId": 50258,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 11488214,
+          "studyProgramStructureUniqueId": 11488213,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 11592086,
+          "studyProgramStructureUniqueId": 11592085,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 11592088,
+              "ects": 180,
+              "subjectUniqueId": 50016,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 12246458,
+          "studyProgramStructureUniqueId": 12246457,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 12246521,
+              "ects": 120,
+              "subjectUniqueId": 12246752,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 12246461,
+          "studyProgramStructureUniqueId": 12246460,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 12246521,
+              "ects": 120,
+              "subjectUniqueId": 12246752,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 14507730,
+          "studyProgramStructureUniqueId": 14507729,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 14507743,
+              "ects": 180,
+              "subjectUniqueId": 50268,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 15803472,
+          "studyProgramStructureUniqueId": 15803471,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 15803576,
+              "ects": 120,
+              "subjectUniqueId": 745609,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 15803475,
+          "studyProgramStructureUniqueId": 15803474,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 15803576,
+              "ects": 120,
+              "subjectUniqueId": 745609,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 15804353,
+          "studyProgramStructureUniqueId": 15804352,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 15804356,
+          "studyProgramStructureUniqueId": 15804355,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": []
+        },
+        {
+          "uniqueId": 16069052,
+          "studyProgramStructureUniqueId": 16069051,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069071,
+              "ects": 120,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16069055,
+          "studyProgramStructureUniqueId": 16069054,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069071,
+              "ects": 120,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16069058,
+          "studyProgramStructureUniqueId": 16069057,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069071,
+              "ects": 120,
+              "subjectUniqueId": 49664,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16069228,
+          "studyProgramStructureUniqueId": 16069223,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16069232,
+              "ects": 180,
+              "subjectUniqueId": 745629,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 16327935,
+          "studyProgramStructureUniqueId": 16327934,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 16327938,
+              "ects": 180,
+              "subjectUniqueId": 50256,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19295037,
+          "studyProgramStructureUniqueId": 19295036,
+          "ects": 180,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 19295076,
+              "ects": 180,
+              "subjectUniqueId": 49662,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 19664275,
+          "studyProgramStructureUniqueId": 19664274,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 20002773,
+              "ects": 120,
+              "subjectUniqueId": 50287,
+              "studyProgramType": 50009,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21676601,
+          "studyProgramStructureUniqueId": 21676600,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21676642,
+              "ects": 120,
+              "subjectUniqueId": 745605,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        },
+        {
+          "uniqueId": 21676606,
+          "studyProgramStructureUniqueId": 21676605,
+          "ects": 120,
+          "mandatoryTypeUniqueId": 1706795,
+          "displayMultiChoice": true,
+          "studyPrograms": [
+            {
+              "uniqueId": 21676642,
+              "ects": 120,
+              "subjectUniqueId": 745605,
+              "studyProgramType": 49431,
+              "benefriPossible": true,
+              "defaultStudyProgramStructureUniqueId": 0,
+              "extracurricular": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
