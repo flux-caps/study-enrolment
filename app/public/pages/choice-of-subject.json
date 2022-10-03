@@ -1,0 +1,41 @@
+{
+  "pageId": "choice-of-subject",
+  "title": "choice-of-subject",
+  "properties":{
+    "studyType": {
+      "enum": [
+        "type_of_studies_ba",
+        "type_of_studies_ma",
+        "type_of_studies_dr",
+        "type_of_studies_mobi_ba",
+        "type_of_studies_mobi_ma"
+      ]
+    },
+    "holder_of_upper_secondary_school_leavng": {
+      "type": "boolan"
+    },
+    "already_registered_at_university": {
+      "type": "boolan"
+    },
+    "already_registered_at_university_of_bern": {
+      "type": "boolan"
+    },
+    "holding_backelor_degree": {
+      "type": "boolan"
+    }
+  },
+  "anyOf": [
+    {
+      "properties": {
+        "studyType": { "const": "type_of_studies_ba" }
+      },
+      "show": ["type_of_studies_ba","already_registered_at_university","already_registered_at_university_of_bern"]
+    },
+    {
+      "properties": {
+        "studyType": { "const": "type_of_studies_ma" }
+      },
+      "show": ["holding_backelor_degree","already_registered_at_university_of_bern"]
+    }
+  ]
+}
