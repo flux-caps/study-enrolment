@@ -1,4 +1,4 @@
-FROM fluxfw/flux-studies-selfservice-demo-backend:v2022-09-30-1-alpha
+FROM fluxfw/flux-studies-selfservice-demo-backend:v2022-10-05-1-alpha
 
 # TODO: Include frontend for prod. backend
 # COPY --from fluxfw/flux-studies-selfservice-frontend:vYYYY-MM-DD-I /flux-studies-selfservice-frontend /path/to/flux-studies-selfservice-frontend
